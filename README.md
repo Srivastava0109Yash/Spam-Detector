@@ -1,0 +1,18 @@
+Dataset link: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
+![Screenshot_20221229_204426](https://user-images.githubusercontent.com/104718068/210004045-2d0d6bfd-e660-467c-95ba-18b5629af673.png)
+![Screenshot_20221229_204653](https://user-images.githubusercontent.com/104718068/210004047-d1460d79-2588-4d8a-8c9c-0b090f6dccbe.png)
+![Screenshot_20221229_204624](https://user-images.githubusercontent.com/104718068/210004049-427791da-bbad-4250-ad38-7e3b43ee6ab8.png)
+![Screenshot_20221229_204514](https://user-images.githubusercontent.com/104718068/210004051-8057827e-809e-45e1-9ad3-ffd0a85bf975.png)
+![Screenshot_20221229_204514](https://user-images.githubusercontent.com/104718068/210004058-dac77841-d7ed-4e3d-8e13-8e37c4ec2fab.png)
+![Screenshot_20221229_204426](https://user-images.githubusercontent.com/104718068/210004059-74d41667-cb7b-4404-a54e-018b4554a1f3.png)
+![Screenshot_20221229_204653](https://user-images.githubusercontent.com/104718068/210004061-918fa2eb-2ef4-41a9-bde3-8425ba05c8fd.png)
+![Screenshot_20221229_204624](https://user-images.githubusercontent.com/104718068/210004062-1b9d4bbe-247e-43cf-aeb4-5edd8e478ccd.png)
+![Screenshot_20221229_204624](https://user-images.githubusercontent.com/104718068/210004066-1f4bff15-dd99-4346-a099-9c8c6a193fca.png)
+![Screenshot_20221229_204514](https://user-images.githubusercontent.com/104718068/210004069-c5f22ec5-4b25-4729-b04e-b0c1d2608df1.png)
+![Screenshot_20221229_204426](https://user-images.githubusercontent.com/104718068/210004072-15add3e5-1e48-4313-8e86-c2665ee1d057.png)
+![Screenshot_20221229_204653](https://user-images.githubusercontent.com/104718068/210004075-c5658fc0-c53e-4539-ab34-1bed20dd916e.png)
+![Screenshot_20221229_204653](https://user-images.githubusercontent.com/104718068/210004076-f957c438-e0ba-44f5-adcf-fd3102ccb53d.png)
+![Screenshot_20221229_204624](https://user-images.githubusercontent.com/104718068/210004078-88cd09c2-4d85-48b9-b427-f3e86d971971.png)
+![Screenshot_20221229_204514](https://user-images.githubusercontent.com/104718068/210004080-5745da04-c440-476b-aa16-27b087e2e61c.png)
+![Screenshot_20221229_204426](https://user-images.githubusercontent.com/104718068/210004081-390e12f3-cb98-498b-ad46-cb6d71c4630b.png)
